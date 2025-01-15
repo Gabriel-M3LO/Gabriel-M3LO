@@ -1,5 +1,4 @@
 <h1 align="center">Olá, meu nome é Gabriel Melo</h1>
-<h3 align="center">Sou profissional na área de dados</h3>
 
 - 🔭 Trabalho como Engenheiro de dados nos projetos do [Instituto ATRI](https://github.com/institute-atri)
 
