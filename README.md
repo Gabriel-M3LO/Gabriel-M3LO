@@ -1,16 +1,14 @@
 <h1 align="center">Olá, meu nome é Gabriel Melo</h1>
 
-- 🔭 Trabalho como Engenheiro de dados nos projetos do [Instituto ATRI](https://github.com/institute-atri)
-
-- 🌱 Atualmente estou aprendendo **Estatística com Python**
+- 🔭 Trabalho como Desenvolvedor BackEnd na [Gestão Remota](https://github.com/Departamento-de-TI-GC-GR)
 
 - 👯 Estou colaborando no projeto [DEEP](https://github.com/institute-atri/deep)
 
 - 💬 Me pergunte sobre **SQL, Python, PowerBI, Excel**
 
-- 📫 Pode me encontrar em **gabrielzulifi@gmail.com**
+- 📫 Pode me encontrar em **melo.gsousa@gmail.com**
 
-- 📄 Sobre minhas experiências [https://www.linkedin.com/in/gabriel-meloiot/](https://www.linkedin.com/in/gabriel-meloiot/)
+- 📄 Sobre minhas experiências [https://www.linkedin.com/in/gabriel-meloiot/](https://www.linkedin.com/in/gabrielmelopy/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
