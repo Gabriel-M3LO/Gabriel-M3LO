@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <h3 align="left">Languages</h3>  
+  <h3>Languages</h3>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="HTML" width="40" height="40"/>&nbsp;
