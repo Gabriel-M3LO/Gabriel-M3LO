@@ -6,7 +6,7 @@
   <a href="https://instagram.com/oncircuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oncircuit" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/oncircuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oncircuit" height="30" width="40" /></a>
   </p>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+  <img href="https://linkedin.com/in/gabriel-meloiot" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
