@@ -15,4 +15,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M3LO&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Gabriel-M3LO's GitHub Stats" />
+</div>
