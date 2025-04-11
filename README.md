@@ -1,12 +1,9 @@
 <h1 align="left">Hello, i'm Gabriel</h1>
 
 <div>
-  <p align="left">
-  <a href="https://linkedin.com/in/gabriel-meloiot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-meloiot" height="30" width="40" /></a>
-  <a href="https://instagram.com/oncircuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oncircuit" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/oncircuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oncircuit" height="30" width="40" /></a>
-  </p>
-  <img href="https://linkedin.com/in/gabriel-meloiot" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/gabriel-meloiot">
+    <img href="https://linkedin.com/in/gabriel-meloiot" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
