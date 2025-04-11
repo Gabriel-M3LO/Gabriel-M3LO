@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Gabriel Melo</h1>
+<h1 align="left">Olá, meu nome é Gabriel Melo</h1>
 
 - 🔭 Trabalho como Desenvolvedor BackEnd na [Gestão Remota](https://github.com/Departamento-de-TI-GC-GR)
 
